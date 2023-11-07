@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+container{
+    margin: auto;
+    background-color: antiquewhite;
+    padding: 8px;
+    display: grid;
+    
+    
+
+
+
+
+}
+
+
+
+.item{
+    background-color: aliceblue;
+    border: 2px solid green;
+    text-align: center;
+    padding: 8px;
+    font-size: x-large;
+    justify-content: center;
+
+}
+
+
+
+#item1{
+    grid-area: Logo;
+}
+
